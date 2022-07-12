@@ -28,7 +28,7 @@ def help():
                 Enter x to exit''')
 def display():
     print(d)
-d={"Kunal":9356569973,"Aryan":9527254842,"Prathamesh":9665130307,"Sid":9529081242,"Prajwal":9284064551,"Mokshada":7774099312,"Aditya":7744847083,"Riddhish":8237732809,"Ruddhi":9604983716,"Hemangi":8668741113}
+d={"Kunal":9356569973,"Aryan":9527254842,"Mokshada":7774099312,"Nikita":9075263711,"Arush":7620014567,"Mansi":7249389813,"Aditya":7744847083,"Riddhish":8237732809,"Ruddhi":9604983716,"Hemangi":8668741113}
 
 if __name__=='__main__':
     help()
